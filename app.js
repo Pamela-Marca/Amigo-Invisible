@@ -17,10 +17,18 @@ function limpiar_amigos(){
 	let contenedorAmigos= document.getElementById('listaAmigos');
 	contenedorAmigos.innerHTML='';
 }
+function limpiar_amigos_Invisible(){
+	let amigoInvisible= document.getElementById('resultado');
+	amigoInvisible.innerHTML='';
+}
 
 function mostrarAmigos(){
 	let contenedorAmigos= document.getElementById('listaAmigos');
+	//limpiando lo que sera la vieja lista de amigos
 	limpiar_amigos();
+	//encaso de querer agregar mas amigos
+	limpiar_amigos_Invisible();
+
 	lista_amigos.forEach(elemento => {
 		let amigo = document.createElement('li');
 		amigo.innerHTML=`<p>${elemento}</p>`;
