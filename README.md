@@ -8,7 +8,7 @@ El proyecto consiste en gestionar un listado de amigos y que de este listado se 
 ## Demostracion de uso
 - En la barra ingresar un nombre y para enviarlo apretar el boton "Añadir"
 ![ingresando nombre](capturas/1image.png)
-![nombres ingresados](capturas/2image.png2)
+![nombres ingresados](capturas/2image.png)
 - Apretar el boton "Sortear amigo" para que se selecione uno de los nombres
 ![migo invisible](capturas/3image.png)
 
