@@ -7,10 +7,10 @@ El proyecto consiste en gestionar un listado de amigos y que de este listado se 
 
 ## Demostracion de uso
 - En la barra ingresar un nombre y para enviarlo apretar el boton "Añadir"
-![ingresando nombre](1image.png)
-![nombres ingresados](2imagen.png)
+![ingresando nombre](capturas/1image.png)
+![nombres ingresados](capturas/2image.png2)
 - Apretar el boton "Sortear amigo" para que se selecione uno de los nombres
-![migo invisible](3imagen.png)
+![migo invisible](capturas/3image.png)
 
 ## Herramientas
 - HTML
